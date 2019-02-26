@@ -3,7 +3,7 @@
 	url = https://github.com/davidsiaw/SDL2.git
 [submodule "SDL2_image"]
 	path = SDL2_image
-	url = https://github.com/davidsiaw/SDL2_image.git
+	url = https://github.com/mchiasson/SDL2_image.git
 [submodule "SDL2_ttf"]
 	path = SDL2_ttf
 	url = https://github.com/davidsiaw/SDL2_ttf.git
