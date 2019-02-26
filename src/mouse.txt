@@ -1,0 +1,7 @@
+- Si click avisar quant surt de focus
+- Si slide mantenir el focus fins que deixa anar el buto
+- 
+
+- Per tant vull:
+- OnClick (up en el boto despres d'haber fet un down)
+- Possibilitat de deselecionar i mantenir el focus
