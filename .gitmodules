@@ -1,6 +1,3 @@
-[submodule "SDL"]
-	path = SDL
-	url = https://github.com/davidsiaw/SDL2.git
 [submodule "SDL2_image"]
 	path = SDL2_image
 	url = https://github.com/mchiasson/SDL2_image.git
@@ -10,3 +7,6 @@
 [submodule "spdlog"]
 	path = spdlog
 	url = https://github.com/gabime/spdlog.git
+[submodule "SDL2"]
+	path = SDL2
+	url = https://github.com/davidsiaw/SDL2.git
